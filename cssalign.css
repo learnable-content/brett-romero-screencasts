@@ -1,0 +1,20 @@
+.main {
+	width:500px;
+	height:300px;
+	border:1px solid black;
+}
+
+#img-center {
+	display:block;
+	margin:auto;
+}
+
+#img-tc {
+	text-align: center;
+}
+
+#img-flex {
+	display:flex;
+	align-items:center; /*veritical*/
+	justify-content:center; /*horizontal*/
+}
